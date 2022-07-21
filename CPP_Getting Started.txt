@@ -1,0 +1,8 @@
+1. Get started
+    Text editor like: Notepad, sublime text..
+    Complier like GCC.
+2. Install IDE
+    Code Block
+    Dev C
+    Eclipse
+    Visual Studio
