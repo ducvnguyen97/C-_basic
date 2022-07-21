@@ -303,4 +303,6 @@ int main()
             --> when not used in declaration, it act as a dereference operator.
     20.3 Modify the pointer value
         You can change the pointer's value, but it will also change the value of the original variable.
+
+Reference & Source: W3S tutorial CPP
 */  
